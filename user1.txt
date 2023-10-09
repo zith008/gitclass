@@ -8,3 +8,6 @@ this isnt saved
 
 this is for merge excercise
 today is a rainy day
+
+
+today is a sunny day
