@@ -5,3 +5,6 @@ this is for second commit
 this change is done in testbranch
 
 this isnt saved
+
+this is for merge excercise
+today is a rainy day
